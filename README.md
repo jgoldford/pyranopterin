@@ -1,5 +1,5 @@
 # pyranopterin
-Data and code for analysis of pyranopterin evolution and ecology. This repo accompanies the biorxiv manuscript [here](https://github.com/facebookresearch/esm). 
+Data and code for analysis of pyranopterin evolution and ecology. This repo accompanies the biorxiv manuscript [here](https://www.biorxiv.org/content/10.1101/2023.09.01.555371v1). 
 
 ## Installation
 
